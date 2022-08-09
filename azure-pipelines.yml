@@ -21,4 +21,4 @@ steps:
   displayName: Login to ACR 
   inputs: 
     command: login 
-    containerRegistry: dockerRegistryServiceConnection1
+    containerRegistry: azureconnection
