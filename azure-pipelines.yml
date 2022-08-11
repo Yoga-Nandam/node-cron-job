@@ -22,4 +22,4 @@ steps:
     containerRegistry: 'dockerregistry'
     repository: 'Yoga-Nandam/node-cron-job'
     command: 'buildAndPush'
-    Dockerfile: '*/Dockerfile'
+    Dockerfile: '**/Dockerfile'
